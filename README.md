@@ -20,7 +20,21 @@ git checkout -b chanwoong
 
 **절대로 main브랜치에 merge 하지 말아주세요!!**
 
-혹시나 더 좋은 방법이 생각나면 다시 알려드리겠습니다.
+과제를 다 푸셨다면 제출을 해주시면 됩니다.
+
+제출하는 방법은 Pull Request 방법을 사용할겁니다.
+
+웹에서 https://github.com/42-codingtest-study/week-01 창을 켭니다.
+
+그럼 Pull requests라는 메뉴가 보일텐데 눌러줍니다.
+
+오른쪽에 New pull request 클릭
+
+base:main <- compare:main 으로 되어있다면
+
+compare 항목 눌러서 자신의 브랜치로 변경
+
+'ooo 과제 완료' 입력 후 제출
 
 -----------
 
