@@ -4,7 +4,7 @@ result = []
 a = list(map(int, input()))
 b = list(map(int, input()))
 
-# A, B 배열 번갈아가며 저장
+# a, b 배열 번갈아가며 저장
 for i in range(8):
     result.append(a[i])
     result.append(b[i])
