@@ -2,7 +2,7 @@
 n = int(input())
 arr = list(map(int, input().split()))
 
-# 배열 생성 및 초기화
+# 배열 생성 및 초기 세팅
 dp = [0 for _ in range(n)]
 dp[0] = arr[0]
 

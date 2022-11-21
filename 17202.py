@@ -1,10 +1,9 @@
-result = []
-
 # 입력값 받기
 a = list(map(int, input()))
 b = list(map(int, input()))
 
-# a, b 배열 번갈아가며 저장
+# 배열 생성 및 초기화
+result = []
 for i in range(8):
     result.append(a[i])
     result.append(b[i])
